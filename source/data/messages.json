@@ -1,0 +1,34 @@
+{
+  "variations": [
+    "Still trying to understand recursion?",
+    "Maybe one more time will help...",
+    "Getting closer to understanding recursion...",
+    "Almost there... (or not)",
+    "Keep going, you'll get it eventually",
+    "Did you understand recursion yet?",
+    "Let's try understanding recursion again",
+    "recursion.understand().understand().understand()",
+    "ERROR: Stack overflow... just kidding, continue",
+    "You're either very persistent or very confused",
+    "Have you tried understanding recursion recursively?",
+    "Plot twist: recursion is understanding you",
+    "To exit recursion, first exit recursion",
+    "function understand(recursion) { return understand(recursion); }"
+  ],
+  "subtitles": [
+    "If you still don't understand recursion, you might need to understand recursion first...",
+    "To understand recursion, one must first understand recursion...",
+    "Understanding recursion requires understanding recursion...",
+    "Before understanding recursion, ensure you understand recursion...",
+    "Step 1: Understand recursion. Step 2: Refer to Step 1.",
+    "Warning: Understanding recursion may cause understanding of recursion",
+    "Loading understanding of recursion... requires understanding of recursion",
+    "Recursion: (see Recursion)",
+    "Definition of recursion: Please refer to the definition of recursion",
+    "Recursion (n.): See recursion",
+    "Understanding loading... Please understand recursion to continue",
+    "Base case not found: continuing recursive understanding",
+    "Recursive understanding depth exceeded. Continuing anyway...",
+    "Understanding recursion is recursive: please understand this understanding recursively"
+  ]
+}
